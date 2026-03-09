@@ -42,3 +42,15 @@ if __name__ == "__main__":
     # 執行分析 (假設數據已存放於 data/sample.csv)
     # analyze_medical_data('data/sample.csv')
     pass
+
+🛠️ 開發環境
+Language: Python 3.x
+
+Frameworks: TensorFlow / Keras
+
+Tools: Jupyter Notebook / Google Colab
+
+Libraries: Pandas (數據處理), Jieba (中文斷詞)
+
+⚠️ 專案說明：
+本專案程式碼因環境變遷與硬體更換部分遺失，目前此儲存庫主要展示研究方法、模型架構圖與實驗數據結果。若需了解詳細邏輯，請參考 docs/ 資料夾中之簡報與海報文件。
